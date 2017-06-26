@@ -1,0 +1,19 @@
+{
+  "name": "main_data_structure_js",
+  "version": "1.0.0",
+  "description": "main data structure js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Tatyana512"
+  },
+  "author": "Tatyana Y.",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.4.2"
+  }
+}
